@@ -19,3 +19,16 @@ WorkPro é uma plataforma projetada para conectar profissionais de diversos serv
 - **PHP:** Linguagem de programação utilizada no backend.
 - **Bootstrap:** Framework de front-end para criar interfaces modernas e responsivas.
 - **MySQL:** Sistema de gerenciamento de banco de dados para armazenamento de dados de usuários e profissionais.
+
+### Homepage do sistema
+
+Aqui está a homepage do WorkPro, tela inicial do sistema.
+
+![Homepage](https://github.com/FernandoFernandesFarias/Projeto_integrador/blob/main/View/img/Sistema/interface.png)
+
+### Tela do profissional
+
+Tela em que aparece os dados do profissional.
+
+![Tela do profissional](https://github.com/FernandoFernandesFarias/Projeto_integrador/blob/main/View/img/Sistema/tela_profissional.png')
+
