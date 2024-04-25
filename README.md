@@ -30,5 +30,5 @@ Aqui está a homepage do WorkPro, tela inicial do sistema.
 
 Tela em que aparece os dados do profissional.
 
-![Tela do profissional](https://github.com/FernandoFernandesFarias/Projeto_integrador/blob/main/View/img/Sistema/tela_profissional.png')
+![Tela do profissional](https://github.com/FernandoFernandesFarias/Projeto_integrador/blob/main/View/img/Sistema/tela_profissional.png)
 
